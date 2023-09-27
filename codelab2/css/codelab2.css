@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f0e6; /* Warna latar belakang emas */
+    color: #000; /* Warna teks hitam */
+    justify-content: center;
+    padding: 120px ;
+    font-weight: bold;
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+.mahasiswa-table {
+    width: 100%;
+    border-collapse:separate;
+    background-color: #FFD700; /* Warna latar belakang emas */
+
+}
+
+.mahasiswa-table th,
+.mahasiswa-table td {
+    border: 1px solid #000; /* Border 1px solid */
+    padding: 5px; /* Padding 5px */
+    text-align: center;
+}
+.mahasiswa-table th {
+    background-color: #FFD700; /* Warna latar belakang emas */
+}
